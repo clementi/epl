@@ -1,0 +1,9 @@
+a.out
+*.pyc
+*.class
+*.o
+*.obj
+*.exe
+*.hi
+.*
+node_modules
